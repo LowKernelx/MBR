@@ -1,4 +1,4 @@
-<p align = center ><img src="https://parrot-dev.web.app/0xParrot/img/1.gif"> </p>
+<p align = center ><<img src="https://parrot-dev.web.app/0xParrot/img/1.gif" alt="My cool gif"> </p>
 
 <div>
 
