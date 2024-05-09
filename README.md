@@ -10,7 +10,7 @@
 - 💀 Website developer using **html css**
 - 👾 **Computer science** nearby
   
-    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
+    <img src = "https://news.vidyaacademy.ac.in/wp-content/uploads/2020/02/parrot.png" alt = "c#" />
     
   
 <div align="right">
