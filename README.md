@@ -1,6 +1,3 @@
-# MBR
-MBR-Overwrite
-
 <p align = center ><img src="https://c4.wallpaperflare.com/wallpaper/760/38/537/parrot-hacking-debian-linux-wallpaper-preview.jpg"> </p>
 
 <div>
@@ -9,7 +6,7 @@ MBR-Overwrite
 
 <h2> / about me /</h2>
   
-- ⭐ I am currently studying on ejpt-v2
+- ⭐ I am currently studying on **ejptv2**
 - 💀 Website developer using **html css**
 - 👾 **Computer science** nearby
   
