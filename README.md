@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://news.vidyaacademy.ac.in/wp-content/uploads/2020/02/parrot.png"/>
+<img align="right" width="350" alt="Shimarin" src="https://news.vidyaacademy.ac.in/wp-content/uploads/2020/02/parrot.png"/>
 
 <h2> / about me /</h2>
   
