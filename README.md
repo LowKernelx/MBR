@@ -1,7 +1,7 @@
 
 <div>
 
-<img align="right" width="350" alt="Shimarin" src="https://news.vidyaacademy.ac.in/wp-content/uploads/2020/02/parrot.png](https://static.wikia.nocookie.net/villainouscn/images/d/d3/BlackHatTransparentNew.png/revision/latest?cb=20180830074318"/>
+<img align="right" width="350" alt="Shimarin" src = "https://news.vidyaacademy.ac.in/wp-content/uploads/2020/02/parrot.png](https://static.wikia.nocookie.net/villainouscn/images/d/d3/BlackHatTransparentNew.png/revision/latest?cb=20180830074318" alt = "Logo" />
 
 <h2> / about me /</h2>
   
